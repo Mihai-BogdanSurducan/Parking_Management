@@ -1,0 +1,3 @@
+NumePosesor - Mihai	NrInmatriculare - B999SIE     Status - liber
+NumePosesor - Bogdan	NrInmatriculare - CJ99SIE     Status - liber
+NumePosesor - Andrei	NrInmatriculare - BH99SIE     Status - liber
